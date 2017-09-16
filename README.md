@@ -1,2 +1,3 @@
 # drakealexander.github.io
-Full of my different attractions
+
+Soon this will become a gallery of my different things ive made.
