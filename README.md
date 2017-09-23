@@ -1,3 +1,3 @@
 # drakealexander.github.io
 
-Soon this will become a gallery of my different things ive made.
+Soon this will become a gallery of my different things i've made.
