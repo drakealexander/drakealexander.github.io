@@ -37,18 +37,7 @@ html, body {
 	color:#E9E9E9;
 	text-align:center;
 }
-#container {
-	overflow:auto;
-	position:relative;
-	z-index:5;
-	width:60%;
-	height:70%;
-	min-width:320px;
-	max-width:700px;
-	margin:5% auto 0% auto;
-	background-color:white;
-	border:solid 5px grey;
-}
+
 
 
 #button:active {
