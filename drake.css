@@ -25,19 +25,6 @@ html, body {
 	min-height:15px;
 	margin:0px;
 }
-#header {
-	position:relative;
-	z-index:10;
-	float:top;
-	width:100%;
-	height:10%;
-	min-height:100px;
-	background-color:black;
-	border-bottom:solid 5px grey;
-	color:#E9E9E9;
-	text-align:center;
-}
-
 
 
 #button:active {
