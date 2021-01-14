@@ -63,8 +63,12 @@
     animation:move-clouds-back 200s linear infinite;
 }
 
-p {
- height: 30%;
- overflow: hidden;
- text-overflow: ellipsis;
+p{
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    max-width: 200px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    height:56px;
 }
