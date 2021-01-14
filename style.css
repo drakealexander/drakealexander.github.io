@@ -62,3 +62,9 @@
     opacity: .4;
     animation:move-clouds-back 200s linear infinite;
 }
+
+p {
+ height: 30%;
+ overflow: hidden;
+ text-overflow: ellipsis;
+}
