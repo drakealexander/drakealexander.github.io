@@ -85,7 +85,7 @@
 }
 
 div.fixed {
-  position: absolute;
+  position: static;
   bottom: 1000px;
   right: 1000px;
   width: 300px;
